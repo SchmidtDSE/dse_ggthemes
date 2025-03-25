@@ -8,6 +8,10 @@
 #
 # docker pull --platform linux/amd64 ghcr.io/rocker-org/devcontainer/tidyverse:4.3
 #
+# afterwards to start things out:
+#
+# docker build --platform linux/amd64 -i -t <container id> /bin/bash
+#
 #
 # TBD: how does this all relate to a "normal" docker build (docker build --tag "name" .)
 
