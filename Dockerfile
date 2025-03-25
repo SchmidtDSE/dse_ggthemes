@@ -2,7 +2,7 @@
 #
 # RUN WITH FOLLOWING COMMAND ON TERMINAL:
 #
-# docker build --platform linux/amd64 -t ggthemes-image .
+# docker build --platform linux/amd64 -t ggthemes-image "."
 #
 # potentially need to run the following command before (tbd test):
 #
